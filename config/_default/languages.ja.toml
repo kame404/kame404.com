@@ -1,0 +1,24 @@
+languageCode = "ja-jp"
+languageName = "Japanese(Japan)"
+displayName = ":jp:"
+isoCode = "ja-JP"
+weight = 1
+rtl = false
+
+title = "kame404 blog"
+logo = "img/kame404_logo.png"
+description = "kame404 Blog"
+copyright = "&copy; 2022 kame404"
+
+dateFormat = "2006年1月2日"
+
+[author]
+  name = "kame404"
+  image = "img/kame404_logo.png"
+  headline = "I'm a graphic designer who loves to create delicious 3D images"
+  bio = "こんにちは！ kame404 です🥰 「軽さ」と「美味しさ」を両立した食べ物のCGを作ります。"
+  links = [
+    { twitter = "https://twitter.com/kame404" },
+    { github = "https://github.com/kame404" },
+    { email = "mailto:404kame@gmail.com" },
+  ]

@@ -1,0 +1,9 @@
+{
+    "name": "kame404",
+    "image" : "img/kame404_logo.png",
+    "bio": "kame404",
+    "social": {
+        "twitter": "https://twitter.com/kame404",
+        "github": "https://github.com/kame404"
+    }
+}
