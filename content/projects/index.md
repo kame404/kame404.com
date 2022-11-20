@@ -22,6 +22,7 @@ showComments: false
 
 |||
 |-|-|
+|<img class="customEntitityAlbum" src="./chocolate_pancake.jpg"/>|**チョコレートパンケーキ**<br>Unityでの使用を想定したパンケーキです。Unitypackageを無料で配布しています。<br><a target="_blank" href="/projects/chocolate_pancake.unitypackage">ダウンロード</a>|
 |<img class="customEntitityAlbum" src="./montblanc.jpg"/>|**モンブラン**<br>Blenderで作成したモンブランです。Cyclesレンダーを使用しました。<br><a target="_blank" href="https://twitter.com/kame404/status/1370351126327926784">詳しく見る</a>|
 |<img class="customEntitityAlbum" src="./pancake.jpg"/>|**パンケーキ**<br>Blenderで作成したパンケーキです。Cyclesレンダーを使用しました。<br><a target="_blank" href="https://twitter.com/kame404/status/1102131616153890816">詳しく見る</a>|
 |<img class="customEntitityAlbum" src="./pudding.jpg"/>|**プリン**<br>Blenderで作成したプリンです。Cyclesレンダーを使用しました。<br><a target="_blank" href="https://twitter.com/kame404/status/1436628177439232005">詳しく見る</a>|
